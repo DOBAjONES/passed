@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    color: white;
+}
+form {
+    border: 1px black;
+    outline-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px;
+    color: black;
+}
+ul.a li {
+    display: inline;
+}
+li {
+    display: inline;
+}
+ul form {
+    display: inline;
+    color: black;
+}
+ul.b li{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: inline;
+}
+ul li {
+    width: 200px;
+    height:40px;
+    color: black;
+}
+ul.c {
+    display: inline;
+}
